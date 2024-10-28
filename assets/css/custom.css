@@ -431,3 +431,8 @@ ul {
 .lg-toolbar {
     background-color: transparent;
 }
+
+.tt-gallery-image {
+    display: flex;
+    justify-content: center;
+}
